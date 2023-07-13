@@ -9,4 +9,3 @@ to go into mysql -> sudo mysql
 	to know about priviledges about database with username for eg.aryanThakur -> SHOW GRANTS FOR 'aryanThakur'@'localhost';
 
 
-//d, err := gorm.Open("mysql", "aryanThakur:0ooin@#QW@/simplerest?charset=utf8&parseTime=True&loc=Local")
